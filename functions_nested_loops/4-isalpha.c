@@ -3,6 +3,8 @@
 /**
  * _isalpha - Checks for alphabetic characters.
  *
+ * @c: the character to be checked
+ *
  * Return: Always 0.
  */
 int _isalpha(int c)
@@ -13,6 +15,6 @@ int _isalpha(int c)
 	}
 	else
 	{
-		retrun (0);
+		return (0);
 	}
 }
