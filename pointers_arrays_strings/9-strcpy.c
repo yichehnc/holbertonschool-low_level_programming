@@ -13,12 +13,12 @@ char *_strcpy(char *dest, char *src)
 {
 	char *p = dest;
 
-	while (src != '\0')
+	while (*src != '\0')
 	{
-		dest = *src;
+		*dest = *src;
 		dest = dest + 1;
 		src = src + 1;
 	}
-	dest = '\0'; /* Null terminate the copied string */
+	*dest = '\0'; /* Null terminate the copied string */
 	return (p);
 }
