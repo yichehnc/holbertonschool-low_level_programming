@@ -28,7 +28,7 @@ int main(void)
 		}
 		else if (n == 1)
 		{
-			printf("%d," n);
+			printf("%d", n);
 		}
 		else
 		{
