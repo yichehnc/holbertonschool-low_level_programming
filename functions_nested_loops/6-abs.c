@@ -3,13 +3,15 @@
 /**
  * _abs - Computes the absolute value of an integer.
  *
+ * @n: char input
+ *
  * Return: Always: 0.
  */
 int _abs(int n)
 {
-        if (n < 0)
-        {
-                n = n * -1;
-        }
-        return (n);
+	if (n < 0)
+	{
+		n = n * -1;
+	}
+	return (n);
 }
