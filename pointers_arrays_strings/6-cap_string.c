@@ -25,9 +25,9 @@ char *cap_string(char *s)
 		else if (s[i] == ' ' || s[i] == '\t'
 			|| s[i] == '\n' || s[i] == '.')
 		{
-			if ((s[i] >= 'a') && (s[i] <= 'z'))
+			if ((s[i + 1] >= 'a') && (s[i + 1] <= 'z'))
 			{
-				s[i] = s[i] - 'a' + 'A';
+				s[i + 1] = s[i + 1] - 'a' + 'A';
 			}
 		}
 		i = i + 1;
