@@ -19,7 +19,7 @@ void print_chessboard(char (*a)[8])
 		while (x < 8)
 		{
 			_putchar(a[y][x]);
-			x = x + 1
+			x = x + 1;
 		}
 		_putchar('\n');
 		y = y + 1;
