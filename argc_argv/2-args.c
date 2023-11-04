@@ -10,12 +10,12 @@
  *
  * Return: Prints the arguments
  */
-int main(int argc, char *argc[])
+int main(int argc, char *argv[])
 {
 	int i;
 
 	i = 0;
-	while (argv[i] != argc[argc])
+	while (argv[i] != argv[argc])
 	{
 		printf("%s\n", argv[i]);
 		i = i + 1;
