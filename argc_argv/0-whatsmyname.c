@@ -5,7 +5,7 @@
  * main - A function that prints the program's name
  *
  * @argc: number of arguments in the command line
- * @argv: array of strings that contain 
+ * @argv: array of strings that contain
  * each of the commands in the command line
  *
  * Return: the name of the program
