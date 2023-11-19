@@ -62,13 +62,13 @@ void print_str(va_list args)
  */
 void print_all(const char * const format, ...)
 {
-	int i:
+	int i;
 	int j;
 	va_list args;
 
 	type check[] = {
 		{"c", print_char},
-		{"i", printf_int},
+		{"i", print_int},
 		{"f", print_float},
 		{"s", print_str},
 		{NULL, NULL}
