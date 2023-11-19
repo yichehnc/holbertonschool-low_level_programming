@@ -27,7 +27,7 @@ void print_int(va_list args)
 }
 
 /**
- * print_int - A function that prints float
+ * print_float - A function that prints float
  *
  * @args: string to be printed
  *
@@ -39,7 +39,7 @@ void print_float(va_list args)
 }
 
 /**
- * print_int - A function that prints string
+ * print_str - A function that prints string
  *
  * @args: string to be printed
  *
