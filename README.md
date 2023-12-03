@@ -36,7 +36,7 @@ This repository documents my learning projects of C language programming.
 
 17. [C - Doubly linked lists](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/doubly_linked_lists)
 
-18. [C - Bit manipulations]
+18. [C - Bit manipulations](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/bit_manipulation)
 
 19. [C - File I/O]
 
