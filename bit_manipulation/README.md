@@ -1,6 +1,6 @@
-<h1>C - Bit Manipulation</h1>
+<h2>C - Bit Manipulation</h2>
 
-## Bit manipulation in C involves performing various bitwise operations on individual bits or groups of bits within the data value 
+### Bit manipulation in C involves performing various bitwise operations on individual bits or groups of bits within the data value 
 
 ### There are six bit operators. They are:
 | Bit Operator | Description |
