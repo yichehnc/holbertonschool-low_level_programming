@@ -1,18 +1,44 @@
-# holbertonschool-low_level_programming
+This repository documents my learning projects of C language programming.
 
-Requirements
-C
-Allowed editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-All your files should end with a new line
-A README.md file at the root of the repo, containing a description of the repository
-A README.md file, at the root of the folder of this project, containing a description of the project
-There should be no errors and no warnings during compilation
-You are not allowed to use system
-Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-Shell Scripts
-Allowed editors: vi, vim, emacs
-All your scripts will be tested on Ubuntu 20.04 LTS
-All your scripts should be exactly two lines long ($ wc -l file should print 2)
-All your files should end with a new line
-The first line of all your files should be exactly #!/bin/bash
+0. [C - Hello World](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/hello_world)
+
+1. [C - Variables, if, else, while](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/variables_if_else_while)
+
+2. [C - Functions, nested loops](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/functions_nested_loops)
+
+3. [C - Makefiles](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/makefiles)
+
+4. [C - More function, more nested loops](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/more_functions_nested_loops)
+
+5. [C - Pointers, arrays and strings](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/pointers_arrays_strings)
+
+6. [C - Recursion](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/recursion)
+
+7. [C - Static Libraries](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/static_libraries)
+
+8. [C - argc, argv](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/argc_argv)
+
+9. [C - malloc, free](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/malloc_free)
+
+10. [C - More malloc, free](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/more_malloc_free)
+
+11. [C - Preprocessor](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/preprocessor)
+
+12. [C - Structures, typedef](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/structures_typedef)
+
+13. [C - Function pointers](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/function_pointers)
+
+14. [C - Variadic functions](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/variadic_functions)
+
+15. [C - printf]
+
+16. [C - Singly linked lists](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/singly_linked_lists)
+
+17. [C - Doubly linked lists](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/doubly_linked_lists)
+
+18. [C - Bit manipulations]
+
+19. [C - File I/O]
+
+20. [C - Hash tables]
+
