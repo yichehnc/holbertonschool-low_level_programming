@@ -8,7 +8,7 @@
  * @head: Pointer to pointer to dlistint_t list
  * @index: Index of the list where the new node should be added
  *
- * Return: A new list with deleted nodes, else NULL
+ * Return: A new list with deleted nodes, else return NULL
  */
 int delete_dnodeint_at_index(dlistint_t **head, unsigned int index)
 {
