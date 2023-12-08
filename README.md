@@ -38,7 +38,7 @@ This repository documents my learning projects of C language programming.
 
 18. [C - Bit manipulations](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/bit_manipulation)
 
-19. [C - File I/O]
+19. [C - File I/O](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/file_io)
 
-20. [C - Hash tables]
+20. [C - Hash tables](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/hash_tables)
 
