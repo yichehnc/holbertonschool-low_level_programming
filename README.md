@@ -30,7 +30,7 @@ This repository documents my learning projects of C language programming.
 
 14. [C - Variadic functions](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/variadic_functions)
 
-15. [C - printf]
+15. [C - printf](https://github.com/yichehnc/holbertonschool-printf)
 
 16. [C - Singly linked lists](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/singly_linked_lists)
 
@@ -41,4 +41,3 @@ This repository documents my learning projects of C language programming.
 19. [C - File I/O](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/file_io)
 
 20. [C - Hash tables](https://github.com/yichehnc/holbertonschool-low_level_programming/tree/main/hash_tables)
-
